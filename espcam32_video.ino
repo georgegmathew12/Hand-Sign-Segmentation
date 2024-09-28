@@ -10,8 +10,8 @@
 #include "esp_http_server.h"
 
 //Replace with your network credentials
-const char* ssid = "SM-G950U163";
-const char* password = "2107301581";
+const char* ssid = "hash";
+const char* password = "hash";
 
 
 
